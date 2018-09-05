@@ -1,0 +1,24 @@
+{
+  "name": "react-native-simple-collapse",
+  "version": "0.0.1",
+  "description": "Simple React Native Collapse component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quantumninja/react-native-simple-collapse.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Collapse"
+  ],
+  "author": "Dale Baldwin (RXP)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quantumninja/react-native-simple-collapse/issues"
+  },
+  "homepage": "https://github.com/quantumninja/react-native-simple-collapse#readme"
+}
