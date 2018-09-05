@@ -1,15 +1,16 @@
 # React Native Simple Collapse
 #### A simple React Native Collapse component
 
-React Native Simple Collapsible is a super simple component for hiding and showing content using default React Animation and Easing. It takes a single prop `trigger`. The component will automatically measure the content inside of it and create a smooth hide/show animation.
+React Native Simple Collapse is a super simple component for hiding and showing content using default React Animation and Easing. It takes a single prop `trigger`. The component will automatically measure the content inside of it and create a smooth hide/show animation.
 
 A few useful bits
 
-- Automatically updates if the content inside the container updates.
+- Automatically updates and reanimates if the content inside the container also updates and changes
 - Single prop to toggle open and close
 - Animation Duration is 250ms and jumps to 500ms if the internal content is over 1024
 - Easing is set to quad
-- Updates for additional props including easing and animation timing coming soon.
+- Works using React 16 compatible lifecycle functions
+- Updates for additional props including easing and animation timing coming soon
 
 ### Install
 Just do a simple npm install
